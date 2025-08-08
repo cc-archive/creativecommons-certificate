@@ -1,5 +1,7 @@
 # Certificate WordPress Theme
 
+*Notice:* As of the Spring of 2025 the Certificates website has been migrated from a standalone WordPress install into a subsection of the main Index Project (CreativeCommons.org). The new setup utilizes the existing `vocabulary-theme` installed on that setup and this theme is no longer utilized in production.
+
 `ccommons-certificates` is a WordPress theme for https://certificates.creativecommons.org.
 
 ## Code of conduct
